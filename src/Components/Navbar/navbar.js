@@ -12,7 +12,11 @@ import { Title } from "../../Styles/title";
 
 const NavbarStyled = styled.div`
   background-color: ${cupcakeGreen};
-  padding: 2rem;
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 `;
 const Logo = styled(Title)`
   font-size: 2.5rem;
@@ -25,7 +29,6 @@ export const Navbar = () => {
   return (
     <NavbarStyled>
       <Logo> Vi&Mary's 🧁</Logo>
-      Let's Taste again and again
     </NavbarStyled>
   );
 };
