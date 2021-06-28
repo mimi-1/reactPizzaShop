@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# E-commerce Pizza-shop built for portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React and firebase e-commerce pizza shop
+
+bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
